@@ -1,0 +1,6 @@
+begin
+variables c
+c = !Global
+!Global = 7
+c = !Global
+end
